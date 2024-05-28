@@ -1,4 +1,4 @@
-# Drag and drop - without browser API, using only mouse ivents
+# Drag and drop - without browser API, using only mouse events
 
 ![wind](./assets/wind.gif)
 
