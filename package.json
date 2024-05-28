@@ -1,0 +1,14 @@
+{
+  "name": "drag-n-drop-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npm run index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knockout": "^3.5.1"
+  }
+}
